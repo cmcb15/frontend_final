@@ -1,0 +1,19 @@
+.link-grey { 
+    color: #aaa; 
+} 
+
+.link-grey:hover { 
+    color: #00913b; 
+}
+
+.card{
+    width: 860px; 
+    height:130px;
+}
+
+.ns{
+    width: 172px; 
+    height:40px;
+}
+
+
